@@ -338,7 +338,7 @@ header .container {
   #PODCAST
 \*-----------------------------------*/
 
-.section{
+.Host{
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -346,13 +346,13 @@ header .container {
   width: 60%;
   margin: 0rem auto 0 auto;
 }
-.section img{
+.Host img{
   display: flex;
   flex-direction: row;
-  border-radius: 6px;
-  height: 250px;
+  border-radius: 10px;
+  height:400px;
   float: right;
-  width: 300px;
+  width: 400px;
 }
 .text{
   display: flex;
