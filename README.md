@@ -1,7 +1,7 @@
 # Prerequistes
 
 Before you begin, ensure you have met the following reguirements:
-1.Git must be installed on your operating system.
+*Git must be installed on your operating system.
 
 ## Introduction
 
@@ -13,13 +13,13 @@ It helps to reduce the task of looking for episodes or even our events as one ca
 
 #### Purpose of the Project
 
-1.Ease of the user to episodes, events or merchandise on the site.
-2.Helps in tracking the progress of the podcast in terms of numbers through feedback from users.
-3.To form a community of like-minded people who will help in achieving the goals.
-4.The website will help in selling and advertising of merchandise to our listeners
+*Ease of the user to episodes, events or merchandise on the site.
+*Helps in tracking the progress of the podcast in terms of numbers through feedback from users.
+*To form a community of like-minded people who will help in achieving the goals.
+*The website will help in selling and advertising of merchandise to our listeners
 
 #### Technical Requirements
 
-1.Programming languages used;html,Css,JavaScript.
-2.Coding Environment; Visual Studio Code.
-3.Hosting Platform; Github.
+*Programming languages used;html,Css,JavaScript.
+*Coding Environment; Visual Studio Code.
+*Hosting Platform; Github.
