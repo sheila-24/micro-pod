@@ -18,7 +18,7 @@ It helps to reduce the task of looking for episodes or even our events as one ca
 * To form a community of like-minded people who will help in achieving the goals.
 * The website will help in selling and advertising of merchandise to our listeners
 
-#### Technical Requirements
+##### Technical Requirements
 
 * Programming languages used;html,Css,JavaScript.
 * Coding Environment; Visual Studio Code.
